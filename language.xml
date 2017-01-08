@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2017 EaDesign by Eco Active S.R.L. All rights reserved.
+ * See LICENSE for license details.
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>ro_RO</code>
+    <vendor>eadesigndev</vendor>
+    <package>ro_ro</package>
+    <!--<use vendor="magento" package="ro_ro"/>-->
+</language>

@@ -4,6 +4,7 @@ The Romanian language pack maintained and supported by EaDesign
 # Configure backend for Magento 2
 
 Activate language (backend): Account > Settings > Account information > Interface Locale
+
 Activate language (frontend): Stores > Settings > Configuration > [storeview] > Locale options > Locale
 
 # Installation (manual) by cloning or copy of the files

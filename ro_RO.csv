@@ -1836,6 +1836,7 @@
 "Incl. Tax","Taxe incluse","module","Magento_Checkout"
 "Your order number is: %1.","Numărul comenzii dumneavoastră este: %1.","module","Magento_Checkout"
 "Your order # is: <span>%1</span>.","Comanda dumneavoastră # este: <span>%1</span>.","module","Magento_Checkout"
+"You can track your order status by creating an account.","Puteți urmări starea comenzii dvs. prin crearea unui cont.","module","Magento_Checkout"
 "We'll email you an order confirmation with details and tracking info.","Veți primi un email pentru confirmarea comenzii cu detalii și informații de urmărire al acesteia.","module","Magento_Checkout"
 "Payment Transaction Failed","Tranzacție de plată eșuată","module","Magento_Checkout"
 "Reason","Motiv","module","Magento_Checkout"

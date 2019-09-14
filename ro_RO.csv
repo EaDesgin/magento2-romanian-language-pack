@@ -5293,7 +5293,7 @@
 "%1 %2","%1 %2","module","Magento_Review"
 "Summary","Titlul recenziei","module","Magento_Review"
 "Submit Review","trimite ","module","Magento_Review"
-"Only registered users can write reviews. Please, <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Doar utilizatorii înregistrați pot scrie recenzii. Vă rugăm, <a href=""%1"">Conectați-vă</a> or <a href=""%2"">Creați-vă cont</a>","module","Magento_Review"
+"Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Doar utilizatorii înregistrați pot scrie recenzii. Vă rugăm să vă <a href=""%1"">autentificați</a> sau să vă <a href=""%2"">creați un cont</a>","module","Magento_Review"
 "Add Your Review","Scrie o recenzie","module","Magento_Review"
 "%1 Review(s)","%1 Recenzii","module","Magento_Review"
 "Review by","Recenzie de","module","Magento_Review"

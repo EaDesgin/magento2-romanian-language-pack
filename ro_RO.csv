@@ -1891,7 +1891,8 @@
 "Email Address","Adresa Email ","module","Magento_Checkout"
 "Person","Persoana fizica","module","Eadesigndev_Checkoutaddressfields"
 "Business","Persoana juridica","module","Eadesigndev_Checkoutaddressfields"
-"Item in Cart","Produs în Cos","module","Magento_Checkout"
+"Item in Cart","Produs în Coș","module","Magento_Checkout"
+"Items in Cart","Produse în Coș","module","Magento_Checkout"
 "Please specify a shipping method.","Specificati o metoda de livrare","module","Magento_Checkout"
 "Review & Payments","Verificare & Modalități plată","module","Magento_Checkout"
 "My billing and shipping address are the same","Adresa de facturare este aceeași cu adresa de livrare","module","Magento_Checkout"
@@ -3758,6 +3759,34 @@
 "Integrations API configuration file.","Fișier configurație API integrări","module","Magento_Integration"
 "No Integrations Found","Nici o integrație găsită","module","Magento_Integration"
 "Status","Status","module","Magento_Integration"
+"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_InventorySales
+"Can't check requested quantity for products without Source Items support.","Can't check requested quantity for products without Source Items support.",module,Magento_InventorySales
+"No linked stock found","No linked stock found",module,Magento_InventorySales
+"We don't have as many quantity as you requested, but we'll back order the remaining %1.","We don't have as many quantity as you requested, but we'll back order the remaining %1.",module,Magento_InventorySales
+"Parameter ""object"" must be present.","Parameter ""object"" must be present.",module,Magento_InventorySales
+"Parameter ""sort_order"" must be present for unrequired conditions.","Parameter ""sort_order"" must be present for unrequired conditions.",module,Magento_InventorySales
+"Condition has to implement IsProductSalableInterface.","Condition has to implement IsProductSalableInterface.",module,Magento_InventorySales
+"Backorders are disabled","Backorders are disabled",module,Magento_InventorySales
+"There are no source items with the in stock status","There are no source items with the in stock status",module,Magento_InventorySales
+"The fewest you may purchase is %1","The fewest you may purchase is %1",module,Magento_InventorySales
+"The requested qty exceeds the maximum qty allowed in shopping cart","The requested qty exceeds the maximum qty allowed in shopping cart",module,Magento_InventorySales
+"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_InventorySales
+"You cannot use decimal quantity for this product.","You cannot use decimal quantity for this product.",module,Magento_InventorySales
+"Parameter ""sort_order"" must be present for urequired conditions.","Parameter ""sort_order"" must be present for urequired conditions.",module,Magento_InventorySales
+"Condition has to implement IsProductSalableForRequestedQtyInterface.","Condition has to implement IsProductSalableForRequestedQtyInterface.",module,Magento_InventorySales
+"The requested sku is not assigned to given stock.","The requested sku is not assigned to given stock.",module,Magento_InventorySales
+"The requested sku is not assigned to given stock","The requested sku is not assigned to given stock",module,Magento_InventorySales
+"The requested qty is not available","Cantitatea solicitată nu este disponibilă",module,Magento_InventorySales
+"Manage stock is enabled","Manage stock is enabled",module,Magento_InventorySales
+"Condition must implement %1","Condition must implement %1",module,Magento_InventorySales
+"""%field"" can not be empty.","""%field"" can not be empty.",module,Magento_InventorySales
+"The website with code ""%code"" does not exist.","The website with code ""%code"" does not exist.",module,Magento_InventorySales
+"$scopeId is required","$scopeId is required",module,Magento_InventorySales
+"$websiteId parameter is required","$websiteId parameter is required",module,Magento_InventorySales
+"Could not load Sales Channels for Stock","Could not load Sales Channels for Stock",module,Magento_InventorySales
+"Stock has at least one sale channel and could not be deleted.","Stock has at least one sale channel and could not be deleted.",module,Magento_InventorySales
+"Could not replace Sales Channels for Stock","Could not replace Sales Channels for Stock",module,Magento_InventorySales
+"Wrong condition.","Wrong condition.",module,Magento_InventorySales
 "Filterable (with results)","Filtrabile (cu rezultate)","module","Magento_LayeredNavigation"
 "Filterable (no results)","Filtrabile (fără rezultate)","module","Magento_LayeredNavigation"
 "No","Nu","module","Magento_LayeredNavigation"

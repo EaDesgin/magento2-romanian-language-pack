@@ -5,11 +5,10 @@
     "AL-2.0"
   ],
   "require": {
-    "magento/framework": "100.1.*",
-    "eadesignro/module-eacore": "~0.0.4"
+    "magento/framework": "*"
   },
   "type": "magento2-language",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "autoload": {
     "files": [
       "registration.php"
